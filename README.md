@@ -1,3 +1,8 @@
+> **NOTE**
+>
+> _This is a straight fork from the excellent [khezen/docker-kibana](https://github.com/khezen/docker-kibana) work. The main difference is usage of the [Kibana OSS distribution](https://www.elastic.co/downloads/kibana-oss) instead of the [default one](https://www.elastic.co/downloads/kibana)._
+
+
 # Supported tags and respective `Dockerfile` links
 
 * `5.6.3`, `5.6`, `5` [(5.6/Dockerfile)](https://github.com/Khezen/docker-kibana/blob/5.6/Dockerfile)

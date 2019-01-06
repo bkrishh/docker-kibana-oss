@@ -15,7 +15,7 @@ Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
 # How To Use
 
 ```
-docker run -d -p 5601:5601 khezen/kibana:latest   
+docker run -d -p 5601:5601 valdemon/kibana-oss:latest   
 ```
 
 ### [File Descriptors and MMap](https://www.elastic.co/guide/en/elasticsearch/guide/current/_file_descriptors_and_mmap.html)
@@ -38,10 +38,10 @@ password for elasticsearch built-in user *kibana*.
 
 Configuration file is located in `/etc/kibana/kibana.yml` if you follow the same volume mapping as in docker-compose examples above.
 
-You can find default config [there](https://github.com/Khezen/docker-kibana/blob/master/config/default.yml).
+You can find default config [there](https://github.com/valdemon/docker-kibana-oss/blob/master/config/kibana.yml).
 
 You can find help with kibana configuration [there](https://www.elastic.co/guide/en/kibana/current/settings.html).
 
 # User Feedback
 ## Issues
-If you have any problems with or questions about this image, please ask for help through a [GitHub issue](https://github.com/Khezen/docker-kibana/issues).
+If you have any problems with or questions about this image, please ask for help through a [GitHub issue](https://github.com/valdemon/docker-kibana-oss/issues).

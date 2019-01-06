@@ -5,7 +5,8 @@
 
 # Supported tags and respective `Dockerfile` links
 
-* `6.5.4-17`, `latest` [(6.5.4-17/Dockerfile)](https://github.com/valdemon/docker-kibana-oss/blob/6.5.4-17/Dockerfile) [![](https://images.microbadger.com/badges/image/valdemon/kibana-oss.svg)](https://microbadger.com/images/valdemon/kibana-oss "Get your own image badge on microbadger.com")
+* [![GitHub (release)](https://img.shields.io/github/release/valdemon/docker-kibana-oss.svg)](https://github.com/valdemon/docker-kibana-oss/releases/latest) ![Tag](https://img.shields.io/badge/latest-yellowgreen.svg) [![](https://img.shields.io/badge/Dockerfile-darkred.svg)](https://github.com/valdemon/docker-kibana-oss/blob/6.5.4-17/Dockerfile) [![](https://images.microbadger.com/badges/image/valdemon/kibana-oss.svg)](https://microbadger.com/images/valdemon/kibana-oss)
+
 # What is Kibana?
 Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers.
 

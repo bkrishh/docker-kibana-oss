@@ -1,12 +1,12 @@
 > **NOTE**
 >
-> _This is a straight fork from the excellent [khezen/docker-kibana](https://github.com/khezen/docker-kibana) & [valdemon/docker-kibana-oss](https://github.com/valdemon/docker-kibana-oss) work. The main difference is usage of the [Kibana OSS distribution](https://www.elastic.co/downloads/kibana-oss) instead of the [default one](https://www.elastic.co/downloads/kibana)._
+> _This project is forked from the excellent [khezen/docker-kibana](https://github.com/khezen/docker-kibana) & [valdemon/docker-kibana-oss](https://github.com/valdemon/docker-kibana-oss) work. The main difference is usage of the [Kibana OSS distribution](https://www.elastic.co/downloads/kibana-oss) instead of the [default one](https://www.elastic.co/downloads/kibana)._
 
 
 # What is Kibana?
 Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers.
 
-[<img src="https://static-www.elastic.co/fr/assets/blt282ae2420e32fc38/icon-kibana-bb.svg?q=802" width="144" height="144">](https://www.elastic.co/fr/products/kibana)
+[<img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt0423c2ca741d3c05/5ea8c90064f47652ec7993f4/brand-kibana-220x130.svg" width="144" height="144">](https://www.elastic.co/kibana)
 
 # How To Use
 

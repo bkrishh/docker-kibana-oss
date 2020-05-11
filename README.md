@@ -1,6 +1,6 @@
 > **NOTE**
 >
-> _This is a straight fork from the excellent [khezen/docker-kibana](https://github.com/khezen/docker-kibana) work. The main difference is usage of the [Kibana OSS distribution](https://www.elastic.co/downloads/kibana-oss) instead of the [default one](https://www.elastic.co/downloads/kibana)._
+> _This is a straight fork from the excellent [khezen/docker-kibana](https://github.com/khezen/docker-kibana) & [valdemon/docker-kibana-oss](https://github.com/valdemon/docker-kibana-oss) work. The main difference is usage of the [Kibana OSS distribution](https://www.elastic.co/downloads/kibana-oss) instead of the [default one](https://www.elastic.co/downloads/kibana)._
 
 
 # What is Kibana?
@@ -37,7 +37,3 @@ Configuration file is located in `/etc/kibana/kibana.yml` if you follow the same
 You can find default config [there](https://github.com/bkrish/docker-kibana-oss/blob/master/config/kibana.yml).
 
 You can find help with kibana configuration [there](https://www.elastic.co/guide/en/kibana/current/settings.html).
-
-# User Feedback
-## Issues
-If you have any problems with or questions about this image, please ask for help through a [GitHub issue](https://github.com/bkrish/docker-kibana-oss/issues).

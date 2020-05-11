@@ -38,10 +38,10 @@ password for elasticsearch built-in user *kibana*.
 
 Configuration file is located in `/etc/kibana/kibana.yml` if you follow the same volume mapping as in docker-compose examples above.
 
-You can find default config [there](https://github.com/valdemon/docker-kibana-oss/blob/master/config/kibana.yml).
+You can find default config [there](https://github.com/bkrish/docker-kibana-oss/blob/master/config/kibana.yml).
 
 You can find help with kibana configuration [there](https://www.elastic.co/guide/en/kibana/current/settings.html).
 
 # User Feedback
 ## Issues
-If you have any problems with or questions about this image, please ask for help through a [GitHub issue](https://github.com/valdemon/docker-kibana-oss/issues).
+If you have any problems with or questions about this image, please ask for help through a [GitHub issue](https://github.com/bkrish/docker-kibana-oss/issues).
